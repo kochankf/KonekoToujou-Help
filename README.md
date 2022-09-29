@@ -2,20 +2,46 @@
 -----------------
 
 
-##1 : Utiles 
+#1 : Utiles 
+----------------------
 
 Commandes | Description | Usage | 
---- | --- | --- |
+---- | ---- | ----- |
 server | Donne le nombre de personnes sur le serveur	 | kf!server |
 add [role]	 | S’ajouter un rôle |  kf!add [xxxx] *sans le @* |
 remove [role] | Se retirer un rôle	 |  kf!remove[xxxx] *sans le @* |
-avatar /avatar [@membre]	 | Donne ton avatar + les roles possédés Donne l’avatar du membre ping+ les rôles possédés *gif nom compris |  kf!avatar/kf!avatar[@membre]|
+avatar /avatar [@membre]	 | Donne ton avatar + les roles possédés.   Donne l’avatar du membre ping+ les rôles possédés *gif nom compris |  kf!avatar/kf!avatar[@membre]|
 upscale [lien image]	 | Upscale votre image via une IA (utilise Waifu2x)	 |  kf!upscale[lien]
- |
 
------------------
+----------------------
 
 #2 : Images SWF-NSFW
+----------------------
+2.1 : Images SFW
+---
+
+Commandes | Description | Usage | 
+---- | ---- | ----- |
+. | Images SFW avec sites externes/Multitag	 |  |
+sb [tag ou non]	 | Génère une image aléatoire du tag sur Safebooru | kf!sb [@tag] *tag non obligatoire* |
+sf | Génère une image aléatoire de SoFurry (Image du jour)|kf!so
+sfc [tag] | Génère une image aléatoire du tag de SoFurry |kf!sof [@tag]
+
+ 
+ 2.2 : Images NSFW
+---
+Commandes | Description | Usage | 
+---- | ---- | ----- |
+. | Images NSFW avec sites externes/Multitag	 |  |
+gb [tag ou non]	 | Génère une image aléatoire du tag sur Gelbooru | kf!gb [@tag] *tag non obligatoire*
+ |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+
+-----------------
 #3 : Source Images 
 #4 : Koneko Fansub
 
