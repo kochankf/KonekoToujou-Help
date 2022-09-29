@@ -1,5 +1,6 @@
-# KonekoToujou-Help
------------------
+## KonekoToujou-Help
+
+
 
 
 #1 : Utiles 
@@ -32,9 +33,27 @@ sfc [tag] | Génère une image aléatoire du tag de SoFurry |kf!sof [@tag]
 ---
 Commandes | Description | Usage | 
 ---- | ---- | ----- |
-. | Images NSFW avec sites externes/Multitag	 |  |
+. | `Images NSFW avec sites externes/Multitag`	 |  |
 gb [tag ou non]	 | Génère une image aléatoire du tag sur Gelbooru | kf!gb [@tag] *tag non obligatoire*
- |
+|kc [tag ou non]	 | Génère une image aléatoire du tag sur Konachan | kf!kc [@tag] *tag non obligatoire*
+r34 [tag ou non]	 | Génère une image aléatoire du tag sur Rules34 | kf!r34 [@tag ou non] *tag non obligatoire*|
+yd [tag ou non]	 | Génère une image aléatoire du tag sur Yande.re | kf!yd [@tag]tag non obligatoire*
+ ---- | ---- | ----- |
+ . | `Image NSFW Random`		 | * |
+ ---- | ---- | ----- |
+ anal | Donne un gif anal aléatoire ou une image	 | kf!anal |
+bdsm | Donne un gif BDSM aléatoire ou une image	 | kf!bdsm |
+blowjob | Donne un gif blowjob aléatoire ou une image	 | kf!blowjob |
+ 
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
+---- | ---- | ----- |
 ---- | ---- | ----- |
 ---- | ---- | ----- |
 ---- | ---- | ----- |
