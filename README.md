@@ -40,31 +40,41 @@ r34 [tag ou non]	 | Génère une image aléatoire du tag sur Rules34 | kf!r34 [@
 yd [tag ou non]	 | Génère une image aléatoire du tag sur Yande.re | kf!yd [@tag]tag non obligatoire*
  ---- | ---- | ----- |
  . | `Image NSFW Random`		 | * |
- ---- | ---- | ----- |
  anal | Donne un gif anal aléatoire ou une image	 | kf!anal |
 bdsm | Donne un gif BDSM aléatoire ou une image	 | kf!bdsm |
 blowjob | Donne un gif blowjob aléatoire ou une image	 | kf!blowjob |
- 
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
----- | ---- | ----- |
+cumsluts | Donne un gif cumsluts aléatoire ou une image	| kf!cumsluts | 
+feet | Donne un gif feet aléatoire ou une image	 | kf!feet |
+femdom | Donne un gif femdom aléatoire ou une image	 | kf!femdom |
+futa	 | Donne un gif futanari aléatoire ou une image	 |kf!futahentai |
+hentai | Donne un gif hentai aléatoire ou une image	 | kf!hentaikitsune |
+kitsune | Donne un gif kitsune aléatoire ou une image	 | kf!kitsune |
+neko | Donne un gif neko aléatoire ou une image	neko | kf!neko |
+pussy	 | Donne un gif pussy aléatoire ou une image	 | kf!pussy |
+trap | Donne un gif trap aléatoire ou une image	 | kf!trap |
+yuri	 | Donne un gif yuri aléatoire ou une image	 | kf!yuri |
+
 
 -----------------
-#3 : Source Images 
+#3 : Source Images
+-----------------
+
+Commandes | Description | Usage | 
+---- | ---- | ----- |
+sauce [~image~ ou URL]	| Rechercher la provenance d’une image (Hentai/Scan/Animes compris)	| kf!sauce [~image~ ou URL] | 
+-----------------
+
+#4 : Text to Image
+-----------------
+
+Commandes | Description | Usage | 
+---- | ---- | ----- |
+d [numéro] [mot ou phrase]	| Dessiner ou créer toutes vos envie grace à une IA	| kf! [muméro] [mot ou phrase] | 
+-----------------
+
 #4 : Koneko Fansub
+-----------------
 
-
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Commandes | Description | Usage | 
+---- | ---- | ----- |
+search [termes]		| permet d’accéder directement à la fiche ou voir si l’anime/hentai est sur le site		| kf!search [terme]
