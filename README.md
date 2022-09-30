@@ -1,6 +1,6 @@
 ## KonekoToujou-Help
 
-
+Sommaire : [1 : Utiles](https://github.com/kochankf/KonekoToujou-Help#1--utiles) – [2 : Images SWF-NSFW](https://github.com/kochankf/KonekoToujou-Help#2--images-swf-nsfw) – [3 : Source Images](https://github.com/kochankf/KonekoToujou-Help#3--source-images) – [4 : Text to Image](https://github.com/kochankf/KonekoToujou-Help#4--text-to-image) - [5 : Koneko Fansub](https://github.com/kochankf/KonekoToujou-Help#4--koneko-fansub)
 
 
 #1 : Utiles 
@@ -72,7 +72,7 @@ Commandes | Description | Usage |
 d [numéro] [mot ou phrase]	| Dessiner ou créer toutes vos envie grace à une IA	| kf! [muméro] [mot ou phrase] | 
 -----------------
 
-#4 : Koneko Fansub
+#5 : Koneko Fansub
 -----------------
 
 Commandes | Description | Usage | 
