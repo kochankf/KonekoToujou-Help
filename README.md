@@ -10,9 +10,9 @@ Commandes | Description | Usage |
 ---- | ---- | ----- |
 server | Donne le nombre de personnes sur le serveur	 | kf!server |
 add [role]	 | S’ajouter un rôle |  kf!add [xxxx] *sans le @* |
-remove [role] | Se retirer un rôle	 |  kf!remove[xxxx] *sans le @* |
-avatar /avatar [@membre]	 | Donne ton avatar + les roles possédés.   Donne l’avatar du membre ping+ les rôles possédés *gif nom compris |  kf!avatar/kf!avatar[@membre]|
-upscale [lien image]	 | Upscale votre image via une IA (utilise Waifu2x)	 |  kf!upscale[lien]
+remove [role] | Se retirer un rôle	 |  kf!remove [xxxx] *sans le @* |
+avatar /avatar [@membre]	 | Donne ton avatar + les roles possédés.   Donne l’avatar du membre ping+ les rôles possédés *gif non compris* |  kf!avatar/kf!avatar[@membre]|
+upscale [lien image]	 | Upscale votre image via une IA (utilise Waifu2x)	 |  kf!upscale [lien]
 
 ----------------------
 
@@ -37,7 +37,7 @@ Commandes | Description | Usage |
 gb [tag ou non]	 | Génère une image aléatoire du tag sur Gelbooru | kf!gb [@tag] *tag non obligatoire*
 |kc [tag ou non]	 | Génère une image aléatoire du tag sur Konachan | kf!kc [@tag] *tag non obligatoire*
 r34 [tag ou non]	 | Génère une image aléatoire du tag sur Rules34 | kf!r34 [@tag ou non] *tag non obligatoire*|
-yd [tag ou non]	 | Génère une image aléatoire du tag sur Yande.re | kf!yd [@tag]tag non obligatoire*
+yd [tag ou non]	 | Génère une image aléatoire du tag sur Yande.re | kf!yd [@tag] *tag non obligatoire*
  ---- | ---- | ----- |
  . | `Image NSFW Random`		 | * |
  anal | Donne un gif anal aléatoire ou une image	 | kf!anal |
