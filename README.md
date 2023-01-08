@@ -68,7 +68,7 @@ sauce [~image~ ou URL]	| Rechercher la provenance d’une image (Hentai/Scan/Ani
 
 Commandes | Description | Usage | 
 ---- | ---- | ----- |
-d [numéro] [mot ou phrase]	| Dessiner ou créer toutes vos envie grace à une IA	| kf! [muméro] [mot ou phrase] | 
+d [numéro] [mot ou phrase]	| Dessiner ou créer toutes vos envie grace à une IA	| kf!d [numéro] [mot ou phrase] | 
 -----------------
 
 #5 : Koneko Fansub
