@@ -45,8 +45,8 @@ blowjob | Donne un gif blowjob aléatoire ou une image	 | kf!blowjob |
 cumsluts | Donne un gif cumsluts aléatoire ou une image	| kf!cumsluts | 
 feet | Donne un gif feet aléatoire ou une image	 | kf!feet |
 femdom | Donne un gif femdom aléatoire ou une image	 | kf!femdom |
-futa	 | Donne un gif futanari aléatoire ou une image	 |kf!futahentai |
-hentai | Donne un gif hentai aléatoire ou une image	 | kf!hentaikitsune |
+futa	 | Donne un gif futanari aléatoire ou une image	 |kf!futa |
+hentai | Donne un gif hentai aléatoire ou une image	 | kf!hentai |
 kitsune | Donne un gif kitsune aléatoire ou une image	 | kf!kitsune |
 neko | Donne un gif neko aléatoire ou une image	neko | kf!neko |
 pussy	 | Donne un gif pussy aléatoire ou une image	 | kf!pussy |
