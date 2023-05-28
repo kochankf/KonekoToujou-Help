@@ -25,7 +25,7 @@ Commandes | Description | Usage |
 . | Images SFW avec sites externes/Multitag	 |  |
 sb [tag ou non]	 | Génère une image aléatoire du tag sur Safebooru | kf!sb [@tag] *tag non obligatoire* |
 sf | Génère une image aléatoire de SoFurry (Image du jour)|kf!so
-sfc [tag] | Génère une image aléatoire du tag de SoFurry |kf!sof [@tag]
+sfs [tag] | Génère une image aléatoire du tag de SoFurry |kf!sfs [@tag]
 
  
  2.2 : Images NSFW
